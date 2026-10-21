@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "curso": {
+    "titulo": "",
+    "plataforma": "",
+    "url_publica_sin_tokens": "",
+    "tipo_credencial_objetivo": "",
+    "condiciones_emision": []
+  },
+  "actualizado_en": "",
+  "alcance_autorizado": [],
+  "actividades": [],
+  "campos_por_actividad": [
+    "id_local",
+    "titulo",
+    "ruta_visible",
+    "tipo",
+    "requerida",
+    "dependencias",
+    "estado",
+    "criterio_finalizacion",
+    "resultado_confirmado",
+    "punto_reanudacion",
+    "evidencia_local",
+    "siguiente_paso",
+    "bloqueo"
+  ],
+  "estados_disponibles": [
+    "no_iniciada",
+    "en_curso",
+    "completada",
+    "aprobada",
+    "pendiente_revision",
+    "bloqueada"
+  ],
+  "credencial": {
+    "estado": "por_verificar",
+    "curso_y_titular_verificados": false,
+    "archivo_local": "",
+    "pendiente": ""
+  },
+  "siguiente_accion": "",
+  "intervenciones_usuario_pendientes": []
+}

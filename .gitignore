@@ -1,0 +1,9 @@
+# Archivos personales de ejecución: conservarlos fuera del repositorio.
+/estado-trabajo.json
+/estado-trabajo-*.json
+/certificados/
+/evidencias/
+/descargas/
+.env
+.env.*
+__pycache__/
